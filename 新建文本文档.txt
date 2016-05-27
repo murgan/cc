@@ -1,0 +1,2 @@
+欺诈游戏
+word-break:break-all  自动换行
